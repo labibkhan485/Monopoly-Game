@@ -1,0 +1,634 @@
+﻿  main.cpp
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(52,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(52,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(52,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(53,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(53,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(53,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(54,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(54,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(54,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(55,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(55,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(56,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(56,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(56,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(57,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(57,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(57,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(58,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(58,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(58,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(59,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(59,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(59,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(60,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(60,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(60,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(61,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(61,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(62,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(62,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(62,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(63,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(63,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(63,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(67,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(67,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(67,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(68,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(68,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(68,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(69,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(69,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(69,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(70,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(70,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(70,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(71,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(71,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(71,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(72,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(72,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(72,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(73,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(73,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(73,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(74,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(74,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(74,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(75,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(75,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(75,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(76,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(76,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(76,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(77,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(77,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(77,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(78,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(78,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(78,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(79,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(79,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(79,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(80,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(80,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(80,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(81,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(81,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(81,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(82,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(82,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(82,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(83,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(83,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(83,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(84,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(84,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(84,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(85,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(85,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(85,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(86,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(86,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(86,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(87,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(87,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(87,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(88,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(88,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(88,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(89,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(89,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(89,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(90,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(90,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(90,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(91,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(91,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(91,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(92,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(92,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(92,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(93,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(93,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(93,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(94,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(94,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(94,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(95,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(95,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(95,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(96,1): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(96,9): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(96,17): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(1160,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(2389,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(2389,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(2718,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(2819,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(2822,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(2832,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(2838,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\main.cpp(2839,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project2.vcxproj -> D:\4.2\GLFW and GLAD installation in Visual Studio 2022\Project2\x64\Debug\Project2.exe
